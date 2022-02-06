@@ -1,4 +1,7 @@
-GIT INIT: initialize as git repo
+^GIT INIT: initialize as git repo
 GIT ADD: add files to staging area
 GIT COMMAND -M "INITIAL COMMIT" : commit
 
+git remote add origin https://github.com/Duebaeae/testing-git.git
+git branch -M main
+git push -u origin main
