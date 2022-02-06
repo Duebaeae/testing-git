@@ -1,0 +1,4 @@
+GIT INIT: initialize as git repo
+GIT ADD: add files to staging area
+GIT COMMAND -M "INITIAL COMMIT" : commit
+
